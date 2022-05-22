@@ -11,7 +11,6 @@ The directory of the source image is asked for, and the options related to webpa
  ### Opening a URL
  The directroy entry instead asks for the URL, and the grayed-out options are enabled<img width="596" alt="Screen Shot 2022-05-22 at 21 52 40" src="https://user-images.githubusercontent.com/100171584/169715388-76759245-6bff-4eb1-a48d-28acc082972d.png">
 
-<img width="597" alt="Screen Shot 2022-05-22 at 21 50 49" src="https://user-images.githubusercontent.com/100171584/169715288-39aba5af-629f-476a-b941-26a08e93348d.png">
 
 ### Explained labels
 For explanations and instructions, hover the cursor over the labels. Most will offer a more detailed message.
