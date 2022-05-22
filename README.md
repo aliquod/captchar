@@ -14,5 +14,5 @@ The directory of the source image is asked for, and the options related to webpa
 <img width="597" alt="Screen Shot 2022-05-22 at 21 50 49" src="https://user-images.githubusercontent.com/100171584/169715288-39aba5af-629f-476a-b941-26a08e93348d.png">
 
 ### Explained labels
-For explanations and instructions, hover the cursor over the labels. Most of them will display a more detailed message.
+For explanations and instructions, hover the cursor over the labels. Most will offer a more detailed message.
 <img width="596" alt="Screen Shot 2022-05-22 at 21 52 40" src="https://user-images.githubusercontent.com/100171584/169715397-f3053db7-1e70-4e15-96f0-c4041deb33fe.png">
